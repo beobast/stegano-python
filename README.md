@@ -2,7 +2,7 @@
 Simple python program to hide an image inside another using LSB replacement
 
 More info (french) :
-http://bastienfaure.fr/steganographie-en-python-cacher-une-image-dans-une-autre/
+https://bastienfaure.fr/notes/steganographie-en-python-cacher-une-image-dans-une-autre
 
 # Usage
 
@@ -17,11 +17,11 @@ sudo pip3 install Pillow
 
 Cover image :
 
-![cover](http://bastienfaure.fr/content/images/2015/04/stegano-python-cover.jpg)
+![cover](http://bastienfaure.fr/images/stegano-python-cover.jpg)
 
 Secret image :
 
-![secret](http://bastienfaure.fr/content/images/2015/04/stegano-python-secret.jpg)
+![secret](http://bastienfaure.fr/images/stegano-python-secret.jpg)
 
 ```
 ./stegano.py path/to/cover.jpg path/to/secret.jpg
@@ -29,7 +29,7 @@ Secret image :
 
 This will produce result.png :
 
-![result](http://bastienfaure.fr/content/images/2015/04/stegano-python-result.png)
+![result](http://bastienfaure.fr/images/stegano-python-result.png)
 
 
 ## Reveal
@@ -40,4 +40,4 @@ This will produce result.png :
 
 This will produce reveal.png :
 
-![reveal](http://bastienfaure.fr/content/images/2015/04/stegano-python-reveal.png)
+![reveal](http://bastienfaure.fr/images/stegano-python-reveal.png)

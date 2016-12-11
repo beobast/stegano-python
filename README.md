@@ -17,11 +17,11 @@ sudo pip3 install Pillow
 
 Cover image :
 
-![cover](http://bastienfaure.fr/images/stegano-python-cover.jpg)
+![cover](https://bastienfaure.fr/wp-content/uploads/2016/12/stegano-python-cover.jpg)
 
 Secret image :
 
-![secret](http://bastienfaure.fr/images/stegano-python-secret.jpg)
+![secret](https://bastienfaure.fr/wp-content/uploads/2016/12/stegano-python-secret.jpg)
 
 ```
 ./stegano.py path/to/cover.jpg path/to/secret.jpg
@@ -29,7 +29,7 @@ Secret image :
 
 This will produce result.png :
 
-![result](http://bastienfaure.fr/images/stegano-python-result.png)
+![result](https://bastienfaure.fr/wp-content/uploads/2016/12/stegano-python-result.png)
 
 
 ## Reveal
@@ -40,4 +40,4 @@ This will produce result.png :
 
 This will produce reveal.png :
 
-![reveal](http://bastienfaure.fr/images/stegano-python-reveal.png)
+![reveal](https://bastienfaure.fr/wp-content/uploads/2016/12/stegano-python-reveal.png)
